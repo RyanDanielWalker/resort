@@ -1,10 +1,11 @@
 
 h1 {
-  color: blue;
+  color: rgb(0, 255, 128);
   text-align: center;
 }
 
 h2 {
+  color: rgb(168, 0, 168);
   font-style: italic;
   text-align: center;
 }
@@ -15,14 +16,18 @@ p {
 }
 
 ul {
-  font-size: 20px;
+  font-size: 42px;
   line-height: 30px;
 }
 
 ol {
-  font-size: 25px;
+  font-size: 32px;
 }
 
 li {
-  font-family: serif;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(179, 11, 11);
 }
